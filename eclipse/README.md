@@ -37,7 +37,7 @@ Will create proper JBoss copyright headers for new Java class files.
 1. Download the jboss-java-templates.xml file in this directory.
 2. In Eclipse preferences for to Java -> Code Style -> Code Templates
 3. Click Import
-4. Select the clean-up file you downloaded in step (1)
+4. Select the template file you downloaded in step (1)
 
 JavaScript Formatter
 --------------------
@@ -64,7 +64,7 @@ Will create proper JBoss copyright headers for new JavaScript files.
 1. Download the jboss-js-templates.xml file in this directory.
 2. In Eclipse preferences for to JavaScript -> Code Style -> Code Templates
 3. Click Import
-4. Select the clean-up file you downloaded in step (1)
+4. Select the template file you downloaded in step (1)
 
 General Text Editor Formatting
 ------------------------------
